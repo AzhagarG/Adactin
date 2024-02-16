@@ -1,0 +1,12 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\Excel_Automation1_Worksheet.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\AdactinTestData_Worksheet.json",
+      "dataVariationType": "File"
+    }
+  ]
+}

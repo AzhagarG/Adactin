@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JwbE0VrnoUeunHbRoTpLHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/SearchHotel.php" CvTextArea="24, 411, 383, 22" CvTextArgument="Welcome to Adactin Group of Hotels" CvType="Text" DesignTimeRectangle="11, 395, 428, 113" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'Welcome to'" FullSelectorArgument="&lt;webctrl class='content' tag='TABLE' /&gt;&lt;webctrl class='welcome_menu' tableRow='1' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl class='content' tag='TABLE' /&gt;&lt;webctrl class='welcome_menu' type='' tag='TD' aaname='Welcome to Adactin Group of Hotels' check:innerText='Welcome to Adactin Group of Hotels' /&gt;" Guid="85a2b262-fde6-4bc7-b303-5a8b5716b77a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Search Hotel' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bc174016585cad0dc7661ccf70edd71c.png" xmlns="">0oczSWJziRUq5CDJ0_eVAYg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

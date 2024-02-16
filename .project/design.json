@@ -1,0 +1,21 @@
+{
+  "Tags": [
+    {
+      "Key": "test"
+    },
+    {
+      "Key": "testSuite"
+    },
+    {
+      "Key": "Testing"
+    },
+    {
+      "Key": "QA"
+    },
+    {
+      "Key": "Adactin"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
